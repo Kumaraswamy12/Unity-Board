@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ppt.unity
     guid: 69a75774d5f820d41a2e35be028909db
+  - enabled: 1
+    path: Assets/Scenes/atonomy.unity
+    guid: a5bd41a7019b3374f89dad74221db1d4
   m_configObjects: {}
