@@ -32,4 +32,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/atonomy.unity
     guid: a5bd41a7019b3374f89dad74221db1d4
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: dc8c9794b50ea7a429c8299a90365ab6, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 3ae39aee66cead345b8ef1782254e28d, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 0811565516e0814448dc5fb000ca5036, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 2df7fbfb47666e84cbaf114913bd8639, type: 2}
