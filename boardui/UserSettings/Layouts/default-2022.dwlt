@@ -19,8 +19,13 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
+<<<<<<< Updated upstream
   m_Title: Game
   m_RootView: {fileID: 4}
+=======
+  m_Title: Hierarchy
+  m_RootView: {fileID: 2}
+>>>>>>> Stashed changes
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
@@ -191,8 +196,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
     width: 1022.4
     height: 160.8
+=======
+    width: 422.4
+    height: 756.4
+>>>>>>> Stashed changes
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 12}
@@ -218,8 +228,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1022.4
     y: 0
+<<<<<<< Updated upstream
     width: 222.40002
     height: 722.8
+=======
+    width: 290.4
+    height: 432.8
+>>>>>>> Stashed changes
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
@@ -244,10 +259,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1244.8
     y: 0
+<<<<<<< Updated upstream
     width: 291.19995
     height: 722.8
   m_MinSize: {x: 275, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+    width: 162.40002
+    height: 756.4
+  m_MinSize: {x: 276, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+>>>>>>> Stashed changes
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -744,11 +766,19 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.010793383, y: 0.034791205, z: 0.00037510318, w: 0.99934095}
     speed: 2
+<<<<<<< Updated upstream
     m_Value: {x: -0.010793333, y: 0.034791045, z: 0.00037510143, w: 0.9993363}
   m_Size:
     m_Target: 1270.8597
     speed: 2
     m_Value: 1270.8597
+=======
+    m_Value: {x: 0.010793383, y: -0.034791205, z: -0.00037510318, w: -0.999341}
+  m_Size:
+    m_Target: 2266.295
+    speed: 2
+    m_Value: 2266.295
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -910,7 +940,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 6e5b0000
       m_LastClickedID: 0
+<<<<<<< Updated upstream
       m_ExpandedIDs: 26f2ffff2cfbffffc25a0000
+=======
+      m_ExpandedIDs: 2efbffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -979,7 +1013,11 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< Updated upstream
     - Assets/Scenes
+=======
+    - Assets/ImageAssests/folder
+>>>>>>> Stashed changes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -987,16 +1025,28 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 54
   m_LastFolders:
+<<<<<<< Updated upstream
   - Assets/Scenes
   m_LastFoldersGridSize: 54
   m_LastProjectPath: C:\Users\Rahul B N\Documents\GitHub\Unity-Board\boardui
+=======
+  - Assets/ImageAssests/folder
+  m_LastFoldersGridSize: 54
+  m_LastProjectPath: C:\Users\kumar\OneDrive\Documents\GitHub\Unity-Board\boardui
+>>>>>>> Stashed changes
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: 3c5b0000
     m_LastClickedID: 23356
     m_ExpandedIDs: 00000000345b00003a5b000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: 7e5b0000
+    m_LastClickedID: 23422
+    m_ExpandedIDs: 00000000725b0000785b000000ca9a3b
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1024,7 +1074,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 00000000345b0000
+=======
+    m_ExpandedIDs: 00000000725b0000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
